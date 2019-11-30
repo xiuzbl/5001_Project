@@ -1,0 +1,2 @@
+Language used: python / jupyter
+required packages: pandas, seaborn, numpy, sklearn, matplotlib, datatime
