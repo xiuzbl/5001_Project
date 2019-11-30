@@ -10,6 +10,9 @@
 ### Notebook:
 'Date Prepossing and Model Training.ipynb' includes data prepossing and the model I use. Related notes has been put in the notebook. You can directly run it to get the prediction for test dataset.
 
+### txt file:
+Requirements.txt file describing the programming languages used & required packages to run my code.
+
 ## Experiment Details:
 
 ### Data Prepocessing:
