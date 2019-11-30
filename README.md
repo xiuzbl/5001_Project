@@ -15,7 +15,7 @@ For columns of 'total_positive reviews' and 'total_negative reviews' in training
 I also further cut down some features according to my model performance.
 ### Model:
 I choose Random Forest to train the model by 'sklearn' tool. After training, I can get the importance(weights) for each feature, and based on this result, I redo the feature extraction in the above process. We can see the top  five features in the following picture.
-![result] (top_features.jpg)
+![result](top_features.jpg);
 
 
 
